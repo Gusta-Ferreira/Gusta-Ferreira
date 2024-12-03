@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Gustavo Santos 
 
-<!--
-**Gusta-Ferreira/Gusta-Ferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil no GitHub! 🚀 Aqui você encontrará projetos que refletem meu aprendizado, habilidades e paixões na área de tecnologia e estou sempre em busca de novos desafios e oportunidades para crescer.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Sobre mim 
+
+- 👨‍💻 Atualmente, estou aprendendo C.   
+- 📚 Apaixonado por tecnologia, programação e desenvolvimento contínuo.
+
+---
+
+## 🚀 Tecnologias e Ferramentas  
+
+Aqui estão algumas tecnologias que utilizo:
+
+- **Frontend**: [ex.: HTML, CSS.]  
+- **Backend**: [ex.: C.] 
+
+---
+
+## 🌐 Entre em contato
+
+- 📧 E-mail: **[gustavoferreira@gmail.com]**  
+- 💼 LinkedIn: [Gustavo Santos(Meu LinkedIn)](https://www.linkedin.com/in/gusta-santosf/) 
+- 🌟 Vamos colaborar? Estou sempre aberto a novas ideias e projetos.
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="30" alt="C logo" />
+</div>
+
+</div>
+
+---

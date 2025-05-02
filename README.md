@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil no GitHub! 🚀 Aqui você encontrará projetos que refl
 
 ## 💻 Sobre mim 
 
-- 👨‍💻 Atualmente, estou aprendendo C.   
+- 👨‍💻 Atualmente, estou vendo banco de dados e C#.   
 - 📚 Apaixonado por tecnologia, programação e desenvolvimento contínuo.
 
 ---
